@@ -1,0 +1,21 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!.bowerrc
+
+!node_modules
+!node_modules/
+!node_modules/*
+!node_modules/**
+
+!public
+!public/
+!public/*
+!public/**
+
+!*.js
+!*.json
+!*.md
+!*.txt
